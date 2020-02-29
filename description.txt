@@ -18,3 +18,6 @@ Code based off of Fargowilta's code, I simply took the code and turned it into o
 
 [c/151515:v1.0.1]
 - Added a mod icon.
+
+[c/151515:v1.0.2]
+- Changed mod icon.

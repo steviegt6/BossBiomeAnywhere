@@ -1,6 +1,6 @@
 displayName = Boss Biome Anywhere
 author = Steviegt6 (convicted tomatophile)
-version = 1.0.1
+version = 1.0.2
 noCompile = false
 homepage = https://discordapp.com/invite/qrZ4Bpz
 hideCode = true
