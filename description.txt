@@ -1,0 +1,17 @@
+Boss Biome Anywhere (BossBiomeAnywhere)
+
+Wanna fight the EoW or BoC whenever and wherever? Well, now you can! What about Plantera's enraged state? Don't like it? Problem solved!
+===========================================
+[c/1C1C1C:Discord]
+https://github.com/Steviegt6/
+===========================================
+[c/1C1C1C:Website]
+https://steviegt6.github.io/
+===========================================
+[c/1C1C1C:Credits]
+Steviegt6: Coder and developer.
+Code based off of Fargowilta's code, I simply took the code and turned it into one mod.
+===========================================
+
+[c/151515:v1.0.0]
+- Initial mod release.
