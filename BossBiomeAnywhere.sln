@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BossBiomeAnywhere", "BossBiomeAnywhere.csproj", "{D158BDF9-1777-48AB-AA5A-6066293EC268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D158BDF9-1777-48AB-AA5A-6066293EC268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D158BDF9-1777-48AB-AA5A-6066293EC268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D158BDF9-1777-48AB-AA5A-6066293EC268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D158BDF9-1777-48AB-AA5A-6066293EC268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F2B09EB-5C15-4ED0-9432-A9F455173094}
+	EndGlobalSection
+EndGlobal

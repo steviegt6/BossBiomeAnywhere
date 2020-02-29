@@ -15,3 +15,6 @@ Code based off of Fargowilta's code, I simply took the code and turned it into o
 
 [c/151515:v1.0.0]
 - Initial mod release.
+
+[c/151515:v1.0.1]
+- Added a mod icon.
