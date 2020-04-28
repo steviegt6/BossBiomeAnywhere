@@ -1,5 +1,7 @@
 Boss Biome Anywhere (BossBiomeAnywhere)
 
+Note: Platera is currently bugged. She won't enrage while anywhere underground but *will* enrage on the surface.
+
 Wanna fight the EoW or BoC whenever and wherever? Well, now you can! What about Plantera's enraged state? Don't like it? Problem solved!
 ===========================================
 [c/1C1C1C:Discord]
@@ -10,7 +12,7 @@ https://steviegt6.github.io/
 ===========================================
 [c/1C1C1C:Credits]
 Steviegt6: Coder and developer.
-Code based off of Fargowilta's code, I simply took the code and turned it into one mod.
+Code based off of Fargowilta's code, I simply took some of the code, added some, and turned it into one mod.
 ===========================================
 
 [c/151515:v1.0.0]
@@ -21,3 +23,6 @@ Code based off of Fargowilta's code, I simply took the code and turned it into o
 
 [c/151515:v1.0.2]
 - Changed mod icon.
+
+[c/151515:v1.0.3]
+- You can now spawn Eater of Worlds and Brain of Cthulhu anywhere. Plantera is slightly less bugged.
